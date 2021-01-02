@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-01-02T13:58:32+08:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2021/01/02/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-01-02T13:27:45+08:00</published><updated>2021-01-02T13:27:45+08:00</updated><id>/jekyll/update/2021/01/02/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2021/01/02/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">夜深人静时（7）：2021年的第一天to2020年的最后一天</title><link href="/2021/01/01/midnight-2020-2021.html" rel="alternate" type="text/html" title="夜深人静时（7）：2021年的第一天to2020年的最后一天" /><published>2021-01-01T13:59:00+08:00</published><updated>2021-01-01T13:59:00+08:00</updated><id>/2021/01/01/midnight-2020-2021</id><content type="html" xml:base="/2021/01/01/midnight-2020-2021.html">&lt;h2 id=&quot;2021年的第一天to2020年的最后一天&quot;&gt;2021年的第一天to2020年的最后一天&lt;/h2&gt;
+
+&lt;p&gt;昨天是2020年的最后一天，很想写些什么，无奈在notion上列了一系列已经完成的事件后就再没什么精力了。于是晚上，看b站跨年夜直到今天凌晨。
+昨天朋友问我：如果用一个词来总结你的2020年，你会选择哪个词呢？
+我认为是&lt;strong&gt;“和解”&lt;/strong&gt;。
+与和解相近而令人困惑的词有很多的，最典型的便是妥协。如果生命被视作是一场无休止的战斗，那么每一步只会有两种结局：死或生。妥协就是承认自己的失败，去服从这个命运——其中当然是有抗争精神在的。但用妥协来形容过去这一年，怕是不够。人们与病毒斗争着，但有哪一方最终胜利了吗？我们至今仍旧生活在过去的余波中，更况且，病毒有意志或知晓什么是胜利吗？除了斗争，同时还发生着很多事。这一切的结果，便是所谓“新常态”。哪怕是新的，也是常态——人与病毒共处的常态。谁彻底消灭了谁吗？没有。只是在斗争的过程中，双方都被彼此改变了——病毒变异了，而人类则提出了更加复杂的措施。不幸的人难道没有再改变过这世间的幸存者吗？当我看到武汉，回忆起那段时光，我的心仍然在痛的——这就是余波的和弦。但我仍会努力地生活——这便是和解。
+斗争着、改变着、怀疑着、相信着。和解不是一个完成时，而是进行时。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;那么，在这一年中，我与什么和解了呢？
+我认识到，虽然被说有学术的感觉，也真心享受着思考的乐趣，但我终究是个无甚天赋和积累的人。我自然是可以选择继续深造，但我在这近三年中见到很多现实，于是逐渐丧失了自己的信心。疫情期间的网课，我的表现是不令人满意的。面对精读过许多遍数的文本，我在发言时还是会紧张。甚至，从反馈来看，我好像还没有真的入门呢。然而这是不应该的。我应当比一切人都要熟悉这个课堂，不论是阅读的量还是对话的节奏。但我最终表现得像一个初学者。每每到这里，我总能想起那很远的第一节课的场景的。那么，我长进了多少呢？
+这是一方面的因素，但并不是最主要的。最主要的是，我的价值观念发生了一些转向。人文学科是有用的，而且有极大的用，是耕耘、丰收了人的精神的用。那么，如何才能发挥它最大的用场？面对这样的拷问，读博不会是第一顺位的选择了——尽管三不朽中的立言，对我来说是很有诱惑的。但我选择在更接近地面的地方展开我的工作。这并不是说，学术圈是不接地气的。相反，它是有一套自足的与人打交道的规则，只是这规则同别的地方似乎不一样罢了。男神、女神这种说法我向来是不屑的。大家都是人，拜偶像是不能，也是不必要的。
+那么对我来说，接近地面是什么意思呢？是在地面上找到一条我自己的路。您曾经的一句话我至今记忆犹新。大意是这样的：你们做这个研究之前，一定要想一想，你为什么要做这个题目？又或者说，这个题目召唤了你吗？应该找到一个只有你能做的题目。
+为什么是我？什么是只有我能做的事？以写硕论时的学术史回顾为例，当我看到有人在某些方面已经做了相当完善的文献工作的时候，我近乎要绝望了。但，当一条路能够看到尽头的时候，往往是另一条路，或好几条路浮现出来的契机。当经过深思熟虑，最终板上钉钉：此路不通的时候，人才最有可能望得见别的路。从认知科学的原理来说，人的大脑偏爱最短路径。换言之，即爱偷懒。于是，有些路走得顺了，有的观念越来越自洽，这些反而是危险的信号。因为稍微有些学术阅读经验的人都知道：没有什么是铁板一块儿！如果感到自洽了，往往只能说明看待、测试问题的角度太单一。而同时，对这个现象有所意识，也是人赋予自我新生的希望所在。
+人当是在怀疑中不断坚定的。the challenge of pluarilty这篇文章对我的影响很大。作者提问：在后现代的语境下，宏观叙事失效了，那么信仰该立足何处？而他的回答是：去经典的话语和权威的阐释之间的张力，并不会瓦解经典。相反，这种张力呈现出的是不断对话的过程，在这个过程中，那个不可见的他者显现出自身的话语。也就是说，绝对他者的完满在场是不可能出现的。这意味着，怀疑只会使真理越琢磨越明白。而人也确实不应该悲观的——他怎么知道除此以外无路可走了呢？&lt;/p&gt;</content><author><name></name></author><summary type="html">2021年的第一天to2020年的最后一天</summary></entry><entry><title type="html">夜深人静时（6）：写学位论文途中的短暂休息</title><link href="/2020/12/15/midnight6-writing-thesis.html" rel="alternate" type="text/html" title="夜深人静时（6）：写学位论文途中的短暂休息" /><published>2020-12-15T00:00:00+08:00</published><updated>2020-12-15T00:00:00+08:00</updated><id>/2020/12/15/midnight6-writing-thesis</id><content type="html" xml:base="/2020/12/15/midnight6-writing-thesis.html">&lt;h2 id=&quot;夜深人静时6写学位论文途中的短暂休息&quot;&gt;夜深人静时（6）：写学位论文途中的短暂休息&lt;/h2&gt;
+
+&lt;p&gt;深夜随笔。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;有时间把100天计划更新下去。看看已经写了30多篇了，也占了整个计划的三分之一，放弃了有点可惜。&lt;/li&gt;
+  &lt;li&gt;在长毛象上写了一首诗：A former researcher / 前研究人 / 现在不搞研究 / 单纯为毕业写论文！是为心境。&lt;/li&gt;
+  &lt;li&gt;看倪湛舸老师说自己的读书方法：为生产而读书，脑子清不清楚不重要，关键在于生产出价值；脑子里先有论文题目，然后人肉搜索所有相关文献，看目录；初筛过后粗看intro和conclusion，此时论文已经有结构；三带着问题做笔记；四看写文章。我愿称她为吞金兽。&lt;/li&gt;
+  &lt;li&gt;之前复习市考的时候学习做图推。对象也做图推。听课了才发现图推考验的是类比功能：看上去三个不搭界的东西，愣是根据某个标准找出个什么来，统合成一种自洽的规律。我愿称之为构建。&lt;/li&gt;
+  &lt;li&gt;以前开题时有文献焦虑症，现在还是有。今天看到个复旦大学的博士论文，写的是日本诗话，可太好了。我乍一看怎么材料用的都差不多？我还缺多少？后来想想写的完全不是一件事情嘛。就想开了。&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">夜深人静时（6）：写学位论文途中的短暂休息</summary></entry><entry><title type="html">夜深人静时（5）：我为什么学不好高中语文</title><link href="/2020/12/02/midnight5-chinese.html" rel="alternate" type="text/html" title="夜深人静时（5）：我为什么学不好高中语文" /><published>2020-12-02T00:00:00+08:00</published><updated>2020-12-02T00:00:00+08:00</updated><id>/2020/12/02/midnight5-chinese</id><content type="html" xml:base="/2020/12/02/midnight5-chinese.html">&lt;h2 id=&quot;夜深人静时5我为什么学不好高中语文&quot;&gt;夜深人静时（5）：我为什么学不好高中语文&lt;/h2&gt;
+
+&lt;p&gt;写这篇文章，是因为我在准备区内的学科考试。我报的是初中语文，所以得做一些高考题。上闲鱼买了13-19年的一模、二模试卷。我于是拿我当年的区二模测试了一下，完成了两篇现代文、一首古诗鉴赏和一篇文言文，共计用时约45分钟。正确率很高，除了个别题目因为粗心出错了之外。
+在做完卷子之后，我回想了一下近六年前的那场区二模。那时我考了95分，一个刚及格的分数。做卷子的感觉到底区别在哪里？&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;现在做长篇阅读理解比以前更轻松。以前一篇现代文至少20分钟，还做不全对。&lt;/li&gt;
+  &lt;li&gt;同样是现代文理解，现在做题前读一遍文章就能划出关键字，并且能大致预计到题目会考什么。比如芥川龙之介的那篇《橘子》，我没看题目就想到它可能会考人物的心理变化。但以前是做不到这样的。虽然在考卷上划了点东西，但终究还是不明白。重读了也不明白。&lt;/li&gt;
+  &lt;li&gt;古诗鉴赏。考了个“秋色老”的老，要求鉴赏。我是怎么想的呢？首先，随文理解。老形容的对象是什么？秋色。转而看全诗：秋色有什么特点？萧瑟。再回过头来看老。它原来形容什么的？人老。人老为什么可以和萧瑟的秋天共用一个形容词？因为作者的心境嘛。翻一下答案，差不多了多少的。以前的我思路就没那么清楚。为什么没那么清楚？后文再说。&lt;/li&gt;
+  &lt;li&gt;文言文理解。以前我古文做得很差。就是看不懂文章在说什么。比如说写一壶先生的那个文章，最后一道题，问人物形象的。现在做起来很简单，看懂了文章关键词一写就完事了。但那时候不行，看不懂。
+    &lt;hr /&gt;
+    &lt;p&gt;对比完了我知道为什么我高中的时候语文不好了。最核心的原因就在于：&lt;strong&gt;看不懂文章&lt;/strong&gt;。
+为什么看懂文章重要？有人说，这不是废话吗？哪儿有人看不懂文章就做题？我想说，还真有。而且越是看不懂文章的人，越期待从答案中总结万能套路出来。
+我以前就是这样的。那年二模考那么差，我还问老师：我古诗鉴赏该怎么提高啊？老师说：去学学人推优去复旦同学的笔记。
+总结答案、总结笔记，其实都是本末倒置。&lt;strong&gt;高考会考一样的题吗？所以答案没用。别人的笔记是别人的思考，别人的思考是你的思考吗？所以也没用。&lt;/strong&gt;
+上面说的古诗鉴赏那道题。以前的我，会看套路、模板，然后没办法了就一股脑写上去，争取踩到给分点。但古诗鉴赏是一个战场的话，显然这种排雷方式太笨了。什么才是聪明的方法呢？&lt;strong&gt;建立起对战场，也就是文本的全局认识&lt;/strong&gt;：地形怎么样？哪个地方最可能有雷？从那条路穿过去比较好？当我真正看明白眼前的文本在说什么的时候，得到正确答案是自然而然的事情。而这种和文本耐心对话的能力，都不是从答案和别人的笔记中培养出来的。&lt;strong&gt;花再多精力在研究别人的东西上，结果只能南辕北辙&lt;/strong&gt;。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">夜深人静时（5）：我为什么学不好高中语文</summary></entry><entry><title type="html">夜深人静时（4）：给唯方法论者的一封信</title><link href="/2020/12/01/midnight4-no-method.html" rel="alternate" type="text/html" title="夜深人静时（4）：给唯方法论者的一封信" /><published>2020-12-01T00:00:00+08:00</published><updated>2020-12-01T00:00:00+08:00</updated><id>/2020/12/01/midnight4-no-method</id><content type="html" xml:base="/2020/12/01/midnight4-no-method.html">&lt;h2 id=&quot;给唯方法论者的一封信&quot;&gt;给唯方法论者的一封信&lt;/h2&gt;
+
+&lt;p&gt;看到这个题目，我又想起那次研讨会。有一个博士学姐问老师：“有什么提高逻辑能力的方法吗？”这老师做哲学出身，平日里一直带我们做精读，常用犀利的追问将大家问倒。对这个问题的回答，她大概是有资格的。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;多看，多练，然后在课堂上，或者和老师的对话中获得反馈。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;对唯方法论者来说，这个回答或许简单到令人失望。但现在看来，这个回答当中，却存在着对他们来说最重要的解药。&lt;/p&gt;
+
+&lt;p&gt;—&lt;/p&gt;
+
+&lt;p&gt;研一的同学是很爱谈「方法」的。谈「方法」是因为他们意识到，研究和考试好像不一样，研究需要方法了。特别是知乎上、学术公众号上，现在已经积累了大量的文章：谈开题的方法、谈文献综述的方法、谈文献管理的方法……更有甚者，还有「快速xxx」的方法。此处不论。&lt;/p&gt;
+
+&lt;p&gt;我们刚上研讨课的时候，也很爱谈方法。谈读论文的方法。网上会告诉你，读introduction，读结论，读标题。没有经验的小孩会很迷信这一套。因为它太简单、太明确，看上去太好操作了！把框架在文档里一列，文章里关键词一摘，reading的任务仿佛就结束了。&lt;/p&gt;
+
+&lt;p&gt;然而我们一次次被老师问得「脱了层皮」。&lt;/p&gt;
+
+&lt;p&gt;后来我们学乖了。老老实实看原文，对不懂的概念找二手材料、和同学讨论论证的前提和问题、有空的话再延伸一下自己的研究……忙得不可开交了。&lt;/p&gt;
+
+&lt;p&gt;老师说：你们渐入佳境了。&lt;/p&gt;
+
+&lt;p&gt;-—&lt;/p&gt;
+
+&lt;p&gt;时间到了研二下学期。我们不知道这是这位老师在我们学校开的最后一次课，只以为那是特殊情况下的一学期网课。&lt;/p&gt;
+
+&lt;p&gt;老师问：你们知道你们的开题为什么写得那么差吗？&lt;/p&gt;
+
+&lt;p&gt;又是灵魂的一击。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;因为你们看文献只看二级标题。所以你们只会写二级标题。都是没有内容的东西，逻辑上也很零碎。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;最后，在无数次的敲打中，爱谈「方法」的小孩沉默了。因为他花了很多教训和时间，找到了解药。&lt;/p&gt;
+
+&lt;p&gt;—&lt;/p&gt;
+
+&lt;p&gt;解药是什么？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;做自己的课题、读自己的文章、用自己的脑子想事情。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;被追问、被敲打、感受到痛苦、感受到问题的复杂性。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;「你自己的问题是什么？」&lt;/p&gt;
+
+&lt;p&gt;「为什么这个课题只有你可以做？」&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;why you?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;—&lt;/p&gt;
+
+&lt;p&gt;得了解药的人，会发现自己不如论道者那么善谈。&lt;/p&gt;
+
+&lt;p&gt;但他终究在茫茫的森林中找到了自己的路。&lt;/p&gt;
+
+&lt;p&gt;也许这条路上不再有人能够马上回应他，但他在鸟语风声中找到了更美的东西。&lt;/p&gt;</content><author><name></name></author><summary type="html">给唯方法论者的一封信</summary></entry></feed>
