@@ -28,7 +28,7 @@ tags: ai
 
 
 
-[Free Storyboarding Software — Online Storyboard Creator | StoryboardThat](https://www.storyboardthat.com/)
+[Free Storyboarding Software — Online Storyboard Creator](https://www.storyboardthat.com/)
 
 
 
@@ -58,7 +58,7 @@ Storyboard That是一个在线的故事板创建工具和教育资源网站。�
 
 
 
-[设计师的在线协作平台 | Fabrie](https://www.fabrie.cn/home)
+[Fabrie](https://www.fabrie.cn/home)
 
 
 
