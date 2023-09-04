@@ -4,12 +4,6 @@ title: 如何用ai工具帮助你找到学习项目？
 categories: [ai, 项目化学习]
 description: 如何用ai工具帮助你找到学习项目？
 keywords: ai, 项目化学习
-mermaid: false
-sequence: false
-flow: false
-mathjax: false
-mindmap: false
-mindmap2: false
 ---
 
 ## ai工具
